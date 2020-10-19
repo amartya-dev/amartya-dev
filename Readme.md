@@ -18,4 +18,4 @@ I love coding pieces in different languages and combining them to make a great s
 
 ### Github Stats
 
-[![Felix's Github Stats](https://github-readme-stats.vercel.app/api?username=felangel&count_private=true&theme=default&show_icons=true)](https://github.com/felangel)
+[![Felix's Github Stats](https://github-readme-stats.vercel.app/api?username=amartya-dev&count_private=true&theme=default&show_icons=true)](https://github.com/felangel)
