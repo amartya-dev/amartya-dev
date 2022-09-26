@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a software engineer at [Ohuru](https://ohuru.tech/)
-
 <p align='center'>
    <a href="https://www.linkedin.com/in/amartya-gaur/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/amartyadev"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
