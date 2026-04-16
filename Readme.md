@@ -1,19 +1,21 @@
-### Hi there 👋
+### 🚀 Senior Software Engineer | AI Infrastructure & Agentic Workflows
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/amartya-gaur/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/amartyadev"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
- </p>
+I don’t build wrappers; I build frameworks. Currently, at Newfold Digital’s AI Center of Excellence (CoE), I architect the tools that power applied AI at scale. My focus is on moving beyond the hype to create production-ready, agentic systems that solve complex business logic.
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Amartya Gaur | 💻 AI & full stack | </h3>
-</div>
+**Core Focus at Newfold Digital:**
+* **Agentic Frameworks:** Architected a high-performance framework for building autonomous agents, featuring integrated WebSocket communication and sophisticated session handling.
+* **LLM Observability & Analysis:** Developed a custom analysis framework to interpret Langfuse data using specialized inference rules, providing deep insights into model performance.
 
-- 🔭 Working with Tensorflow, Flutter, Django
-- 🌱 Learning NuxtJS, Golang, MxNet, Java
+**Current Ventures & Projects:**
+* **Hunr AI:** Founding and architecting an AI-driven, task-based hiring platform designed to automate technical evaluation and candidate benchmarking.
+* **Metahumans & Real-time AI:** Exploring the intersection of 3D models and real-time LLM inference to create high-fidelity AI avatars.
+* **AI Build Labs:** Founder of a monthly, "laptops-open" meetup series in Bangalore. We focus on skipping the slides and building functional AI MVPs in 3-hour sprints.
 
-I love coding pieces in different languages and combining them to make a great software :).
+**Technical Stack:**
+* **Backend:** Python (FastAPI, Django ORM), LangChain, LangGraph.
+* **Frontend:** Next.js, React, Tailwind CSS.
+* **Infrastructure:** Agent Orchestration, WebSocket Architecture, LLM Analysis.
 
-### Github Stats
+I’m passionate about minimalist, high-tech design and building systems that are as sturdy as they are scalable. 
 
-[![Amartya's Github Stats](https://github-readme-stats.vercel.app/api?username=amartya-dev&count_private=true&theme=default&show_icons=true)](https://github.com/amartya-dev)
+📫 **Let’s connect if you’re building in the Agentic AI space or interested in joining our next Build Lab in Bangalore.**
