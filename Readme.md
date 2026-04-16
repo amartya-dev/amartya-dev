@@ -9,7 +9,6 @@ I don’t build wrappers; I build frameworks. Currently, at Newfold Digital’s 
 **Current Ventures & Projects:**
 * **Hunr AI:** Founding and architecting an AI-driven, task-based hiring platform designed to automate technical evaluation and candidate benchmarking.
 * **Metahumans & Real-time AI:** Exploring the intersection of 3D models and real-time LLM inference to create high-fidelity AI avatars.
-* **AI Build Labs:** Founder of a monthly, "laptops-open" meetup series in Bangalore. We focus on skipping the slides and building functional AI MVPs in 3-hour sprints.
 
 **Technical Stack:**
 * **Backend:** Python (FastAPI, Django ORM), LangChain, LangGraph.
