@@ -1,4 +1,4 @@
-### 🚀 Senior Software Engineer | AI Infrastructure & Agentic Workflows
+### 🚀 Founder @ hunr.ai | AI Infrastructure & Agentic Workflows
 
 I don’t build wrappers; I build frameworks. Currently, at Newfold Digital’s AI Center of Excellence (CoE), I architect the tools that power applied AI at scale. My focus is on moving beyond the hype to create production-ready, agentic systems that solve complex business logic.
 
